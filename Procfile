@@ -1,1 +1,1 @@
-Worker: php autolikejobtraodoisub.php
+Worker: php index.php
