@@ -1,0 +1,1 @@
+Worker: php autolikejobtraodoisub.php
